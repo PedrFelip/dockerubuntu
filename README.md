@@ -9,4 +9,4 @@ Este projeto tem como objetivo configurar de maneira simples e demonstrar a cone
 - Acesso ao terminal
 
 ## Estrutura do Projeto
-![Estrutura do Projeto](/assets/images/estrutura.png)
+![Estrutura do Projeto](estrutura.png)
