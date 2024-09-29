@@ -9,4 +9,7 @@ Este projeto tem como objetivo configurar de maneira simples e demonstrar a cone
 - Acesso ao terminal
 
 ## Estrutura do Projeto
+Neste projeto, utilizarei a imagem do Ubuntu. Dois containers serão baseados nessa imagem, com um configurado para atuar como **servidor**, executando o OpenSSH, enquanto o outro será configurado como cliente, usando o OpenSSH Client para estabelecer a comunicação via SSH entre eles.
+
 ![Estrutura do Projeto](estrutura.png)
+
