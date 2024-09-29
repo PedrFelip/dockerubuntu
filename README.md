@@ -13,3 +13,8 @@ Neste projeto, utilizarei a imagem do Ubuntu. Dois containers serão baseados ne
 
 ![Estrutura do Projeto](estrutura.png)
 
+Vamos começar baixando a imagem do ubuntu com o simples comando
+```
+docker pull ubuntu
+```
+
